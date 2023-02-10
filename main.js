@@ -114,6 +114,7 @@ function bgchanger(track_index){
     document.getElementById('button_colorch').style.color ='rgb(247,247,247)';
     document.getElementById('time_colorch').style.color = 'rgb(247,247,247)';
     document.getElementById('volume_colorch').style.color = 'rgb(247,247,247)';
+    document.getElementById('colorch').style.filter = "drop-shadow(0px 0px 3px rgba(0, 0, 0, 0.446))";
 
   }
   
